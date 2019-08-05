@@ -1,0 +1,65 @@
+@font-face {
+	src: url(fonts/Montserrat-Regular.ttf);
+	font-family: montserrat;
+}
+
+@font-face {
+	src: url(fonts/NunitoSans-Regular.ttf);
+	font-family: nunito sans;
+}
+
+.header-full {
+	position: absolute;
+	width: 100%;
+}
+
+.nav-header {
+	height: 100px;
+	background-color: transparent;
+}
+
+.nav-item-head {
+	height: 18px;
+}
+
+.nav-item {
+	font-family: montserrat;
+	font-size: 12px;
+	font-weight: 700;
+	padding: 0 18px;
+}
+
+.bg-banner {
+	padding-top: 100px;
+	background-color: #e9ecef;
+	min-height: 670px;
+}
+
+.space-banner {
+	padding: 100px 0;
+}
+
+.banner-tittle {
+	font-family: montserrat;
+	font-size: 38px;
+	font-weight: 700;
+}
+
+.banner-text {
+	font-family: nunito sans;
+	font-size: 18px;
+	letter-spacing: 0.05em;
+}
+
+.gap {
+	height: 20px;
+}
+
+.rectangle {
+	background-color: blue;
+	padding: 20px 45px;
+	font-family: montserrat;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+}
